@@ -1,3 +1,6 @@
+# Some scripts
+- [dmscripts](https://github.com/Laughing-q/dmscripts) 
+
 # Luke's dmenu
 
 Extra stuff added to vanilla dmenu:
